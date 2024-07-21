@@ -1,0 +1,16 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "main": "file1.js",
+  "scripts": {
+    "start": "nodemon file1.js",
+    "start2": "nodemon file2.js",
+    "start3": "nodemon file3.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
